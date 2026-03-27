@@ -1,0 +1,9 @@
+{
+  "name": "CivicPulse",
+  "description": "A modern civic social media platform for reporting and tracking public infrastructure and environmental issues.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
